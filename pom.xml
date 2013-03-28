@@ -8,6 +8,8 @@
 	<name>Spring Test DBUnit Parent</name>
 	<modules>
 		<module>spring-test-dbunit</module>
+    <!--
 		<module>spring-test-dbunit-sample</module>
+    -->
 	</modules>
 </project>
